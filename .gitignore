@@ -4,3 +4,6 @@ node_modules/
 # Ignore Express generated files
 /public/
 /views/
+
+# Ignore .env file containing credentials
+.env
